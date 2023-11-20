@@ -14,6 +14,8 @@
 - 14 &nbsp; one and a half hours &nbsp; 79kg
 - 15 &nbsp; one and a half hours
 - 16 &nbsp; one hour
+- 17 &nbsp; two hours
+- 20 &nbsp; one and a half hours
 
 
 
