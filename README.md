@@ -17,6 +17,9 @@
 - 17 &nbsp; two hours
 - 20 &nbsp; one and a half hours
 - 21 &nbsp; one and a half hours
+- 22 &nbsp; one and a half hours
+- 23 &nbsp; one and a half hours
+- 25 &nbsp; one and a half hours
 
 
 
