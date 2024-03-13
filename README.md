@@ -26,6 +26,8 @@
 - 29 &nbsp; one and a half hours
 ## 2023.12
 - 1 &nbsp; one and a half hours
-
+## 2024.3
+- 12 &nbsp; one hour &nbsp; 73kg
+- 13 &nbsp;  
 
 
